@@ -1,4 +1,0 @@
-
-pak::pkg_install("TiagoOlivoto/pliman")
-
-library(pliman)
